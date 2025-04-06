@@ -5,7 +5,7 @@
 <h3 align="center">A passionate Web developer from India</h3>
 
 
-- 📫 How to reach me **saane.yaswanthkumar28@gmail.com**
+- 📫 How to reach me **syaswanthkumar10@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
